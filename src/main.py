@@ -1,4 +1,4 @@
-from zhelper import *
+from helper import *
 from bayes.models import *
 from bayes.explanations import BayesLocalExplanations
 import matplotlib.pyplot as plt
